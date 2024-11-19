@@ -1,4 +1,4 @@
-## seven-segment display
+## Seven-Segment Display
 
 Aim:
 
